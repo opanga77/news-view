@@ -1,4 +1,4 @@
-# News Highlights
+# News-view
 
 This application lists various sources of news and subsequent highlights in each of the source. clicking an individual highlights takes the user to the article itself for the full story
 
@@ -29,7 +29,7 @@ As a user I would like:
 ## Setup/Installation Requirements
 * internet access
 * git clone 
-* $ cd news-highlights
+* $ cd news-view
 * $ python3.6 -m venv virtual (install virtual environment)
 * $ source virtual/bin/activate
 * $ python3.6 -m pip install -r requirements.txt (install all dependencies)
