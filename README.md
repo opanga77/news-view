@@ -41,9 +41,6 @@ As a user I would like:
 #### Google.com, StackOverflow.com and Miguel Grinberg -author of 'Flask Web Development'
 
 
-# Support and Contacts
-
-In case You have any issues using this code please do no hesitate to get in touch with me through kephaokari@gmail.com or leave a commit here on github.
 
 ## Known Bugs
 
