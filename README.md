@@ -38,7 +38,7 @@ As a user I would like:
 
 # CREDITS
 
-#### Google.com, StackOverflow.com and Miguel Grinberg -author of 'Flask Web Development'
+#### Google.com, StackOverflow.com and moringa school 'study content'
 
 
 
