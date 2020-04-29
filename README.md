@@ -37,7 +37,7 @@ As a user I would like:
 
 ## Known Bugs
 
-No known bugs at the
+No known bugs at the mo
 
 ## Technologies Used
 - Python3.6
