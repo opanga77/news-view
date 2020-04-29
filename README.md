@@ -20,7 +20,7 @@ As a user I would like:
 
 
 ## Setup/Installation Requirements
-* int
+
 * git clone 
 * $ cd news-view
 * $ python3.6 -m venv virtual (install virtual environment)
