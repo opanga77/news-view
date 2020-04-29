@@ -14,13 +14,6 @@ As a user I would like:
 * to see the image, description and time the news article was created.
 * to click on an article and read it fully from the news source.
 
-## Specifications
-| Behavior        | Input           | Outcome  |
-| ------------- |:-------------:| -----:|
-| Display News sources | N/A | List of various News sources is displayed |
-| Articles from selected News source | **Click** a News source | Directed to a page with a list of articles from the selected source |
-| Display image, description, title and date of publish | N/A | An articles image, title, description and date of publication are displayed |
-| Read an entire article | **Click** on an article | Directed to the source's site to read the entire article |
 
 ## Prerequisites
 * Python3.6
